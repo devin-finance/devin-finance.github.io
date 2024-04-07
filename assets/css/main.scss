@@ -10,14 +10,17 @@
  *
 */
 
+// Import mixins and other dependencies
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
 @import "vendor/susy/susy";
 
+// Import base styles
 @import "reset";
 @import "base";
 
+// Import utility styles
 @import "utilities";
 @import "animations";
 @import "tables";
@@ -28,14 +31,28 @@
 @import "footer";
 @import "syntax";
 
+// Import form styles
 @import "forms";
 
+// Import page and archive styles
 @import "page";
 @import "archive";
 @import "sidebar";
 
+// Import Font Awesome and Magnific Popup styles
 @import "vendor/font-awesome/fontawesome";
 @import "vendor/font-awesome/solid";
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
+
+// Import print styles
 @import "print";
+
+// Override font-family for body and headings
+body {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Helvetica, Arial, sans-serif;
+}
