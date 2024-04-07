@@ -12,6 +12,14 @@ layout: default
   {% endunless %}
 {% endif %}
 
+<head>
+  <style>
+    .archive .page__title {
+      font-size: 1.2rem; /* Adjust the font size as needed */
+    }
+  </style>
+</head>
+
 <div id="main" role="main">
   {% include sidebar.html %}
 
@@ -22,3 +30,4 @@ layout: default
     {{ content }}
   </div>
 </div>
+
