@@ -18,9 +18,9 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 1.5em; // Decrease font size for headings
+  font-size: 1.3em; // Decrease font size for headings
   font-family: Helvetica, Arial, sans-serif;
-  margin: 2em 0 0.5em;
+  margin: 2em 1 0.5em;
   line-height: 1.2;
   font-weight: bold;
 }
@@ -29,7 +29,7 @@ h1, h2, h3, h4, h5, h6 {
 /* reduce orphans and widows when printing */
 
 p, pre, blockquote, ul, ol, dl, figure, table, fieldset {
-  font-size: 1em; // Decrease font size for paragraphs, lists, etc.
+  font-size: 0.95em; // Decrease font size for paragraphs, lists, etc.
   font-family: Helvetica, Arial, sans-serif;
   orphans: 3;
   widows: 3;
@@ -37,7 +37,7 @@ p, pre, blockquote, ul, ol, dl, figure, table, fieldset {
 
 
 a, abbr[title], abbr[data-original-title], blockquote cite {
-  font-size: 1em; // Decrease font size for links, abbreviations, and blockquote citations
+  font-size: 0.95em; // Decrease font size for links, abbreviations, and blockquote citations
   font-family: Helvetica, Arial, sans-serif;
 }
 
