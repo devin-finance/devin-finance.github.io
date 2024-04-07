@@ -23,7 +23,7 @@ author:
   # Biographic information
   name             : "Devin Zhang"
   avatar           : "logo_pic.png"
-  avatar_width     : 200 # Adjust the width as needed
+  avatar_width     : # 200 Adjust the width as needed
   pronouns         : # example: "she/her"  
   bio              : "<i>PhD student in Finance studying<br>how heterogenous firms<br>interact with the financial market</i>"
   employer         : "Penn State University"
