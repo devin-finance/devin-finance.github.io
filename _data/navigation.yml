@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "About"
+  - title: "ABOUT"
     url: /about/
   
-  - title: "Research"
+  - title: "RESEARCH"
     url: /research/
 
 #  - title: "Talks"
