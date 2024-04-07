@@ -24,4 +24,4 @@ Feel free to contact me at zxz5471[at].psu.edu
 
 Recent
 ------
-© 2024 Devin Zhang. Powered by [Jekyll](https://jekyllrb.com/) & [AcademicPages](https://academicpages.github.io/markdown/) using the [Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+© 2024 Devin Zhang. Powered by [Jekyll](https://jekyllrb.com/) using the [Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
