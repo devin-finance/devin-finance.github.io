@@ -10,6 +10,18 @@
  *
 */
 
+
+/* Adjust width of the left column */
+.left-column {
+  width: 70%; /* Adjust as needed */
+}
+
+/* Align content to the left */
+.page-content {
+  text-align: left;
+}
+
+
 // Import mixins and other dependencies
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
