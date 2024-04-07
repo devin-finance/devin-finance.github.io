@@ -51,6 +51,10 @@
 @import "archive";
 @import "sidebar";
 
+.archive .page__title {
+  font-size: 1.2rem; /* Adjust the font size as needed */
+}
+
 // Import Font Awesome and Magnific Popup styles
 @import "vendor/font-awesome/fontawesome";
 @import "vendor/font-awesome/solid";
@@ -59,6 +63,11 @@
 
 // Import print styles
 @import "print";
+
+
+
+
+
 
 // Override font-family for body and headings
 body {
