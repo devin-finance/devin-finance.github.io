@@ -1,4 +1,3 @@
-
 ---
 title: "The Working Capital Channel of Investment under Uncertainty"
 collection: Working Papers
