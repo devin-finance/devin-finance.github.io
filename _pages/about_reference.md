@@ -3,8 +3,6 @@ permalink: /
 title: "👋 Hello there, I’m Devin!"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 ![mountains](/images/mountain.png){: .align-right width='340px'}
