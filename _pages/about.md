@@ -20,6 +20,8 @@ Feel free to contact me at zxz5471[at].psu.edu
 
 
 
+
+
 Recent
 ------
-Created a personal webpage using academicpages [the guide](https://academicpages.github.io/markdown/) and the [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+Created a personal webpage using academicpages [this guide](https://academicpages.github.io/markdown/) and the [Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
