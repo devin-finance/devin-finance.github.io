@@ -8,7 +8,8 @@ html {
 }
 
 body {
-  font-family: Helvetica, Arial, sans-serif; // Change font family here
+  font-size: 0.95em; // Decrease font size for body
+  font-family: Helvetica, Arial, sans-serif;
   margin: 0;
   padding: $masthead-height 0 0;
   padding-bottom: 9em;
@@ -17,7 +18,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: Helvetica, Arial, sans-serif; // Change font family here
+  font-size: 0.95em; // Decrease font size for headings
+  font-family: Helvetica, Arial, sans-serif;
   margin: 2em 0 0.5em;
   line-height: 1.2;
   font-weight: bold;
@@ -27,13 +29,15 @@ h1, h2, h3, h4, h5, h6 {
 /* reduce orphans and widows when printing */
 
 p, pre, blockquote, ul, ol, dl, figure, table, fieldset {
-  font-family: Helvetica, Arial, sans-serif; // Change font family here
+  font-size: 0.95em; // Decrease font size for paragraphs, lists, etc.
+  font-family: Helvetica, Arial, sans-serif;
   orphans: 3;
   widows: 3;
 }
 
 a, abbr[title], abbr[data-original-title], blockquote cite {
-  font-family: Helvetica, Arial, sans-serif; // Change font family here
+  font-size: 0.95em; // Decrease font size for links, abbreviations, and blockquote citations
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 
