@@ -6,5 +6,4 @@ excerpt: '_Abstract_: This study documents a novel working capital channel of in
 paperurl: null
 
 ---
-
-
+_Draft available upon request_
