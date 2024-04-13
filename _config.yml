@@ -12,7 +12,7 @@ title                    : "DEVIN ZHANG"
 title_separator          : "-"
 name                     : &name "Devin Zhang"
 description              : &description "personal description"
-url                      : https://devinjhung.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://devin-finance.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "devinjhung/devinjhung.github.io"
 
