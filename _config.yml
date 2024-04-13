@@ -22,7 +22,7 @@ repository               : "devin-finance/devin-finance.github.io"
 author:
   # Biographic information
   name             : "Devin Zhang"
-  avatar           : "profile_photo_full.png"
+  avatar           : "profile_photo_large.png"
   avatar_width     : 300  # Adjust the width as needed
   pronouns         : # example: "she/her"  
   bio              : "<i>PhD student in Finance</i>"
