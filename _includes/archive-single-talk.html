@@ -26,7 +26,7 @@
       </div>
     {% endif %}
     <h2 class="archive__item-title" itemprop="headline">
-      {% if post.paperurl and post.paperurl != "" %}
+      {% if post.paperurl %}
         <a href="{{ post.paperurl }}">{{ title }}</a>
       {% else %}
         {{ title }}
