@@ -26,10 +26,10 @@
       </div>
     {% endif %}
     <h2 class="archive__item-title" itemprop="headline">
-      {% if post.paperurl %}
-        <a href="{{ post.paperurl }}">{{ title }}</a>
+      {% if page.paperurl %}
+        <a href="{{ page.paperurl }}">{{ page.title }}</a>
       {% else %}
-        {{ title }}
+        {{ page.title }}
       {% endif %}
     </h2>
     {% if post.read_time %}
