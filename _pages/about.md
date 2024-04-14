@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![mountains](/images/mountain.png){: .align-right width='300px'}
+![mountains](/images/mountain.png){: .align-right width='320px'}
 
 I'm a Finance PhD Student at Penn State University. My research interests include supply chain s, production, and corporate investment. 
 
