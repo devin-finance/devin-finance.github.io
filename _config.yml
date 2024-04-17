@@ -142,6 +142,11 @@ analytics:
     tracking_id          : "G-KSMMCKYWLQ"
 
 
+# Add a Google search box to your site
+google_cse:
+  search_engine_id: "d318632916c3342d2"
+
+
 # Reading Files
 include:
   - .htaccess
