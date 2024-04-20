@@ -137,7 +137,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-gtag"
+  provider               : "custom"
   google:
     tracking_id          : "G-KSMMCKYWLQ"
 
