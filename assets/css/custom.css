@@ -23,5 +23,5 @@
 
 /* Add gray background color to abstract text when abstract button is clicked */
 .paper details[open] .abstract-text {
-  background-color: rgba(245,245,255,255); /* Background color in RGBa format */
+  background-color: rgba(245,245,255,0.9); /* Background color in RGBa format */
 }
