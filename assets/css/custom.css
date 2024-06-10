@@ -32,17 +32,17 @@
 
 
 /* Style the new request line */
-.paper details p.request-line {
+.paper p.request-line {
   margin-top: 5px; /* Space between abstract text and request line */
   font-size: 0.90em; /* Match the abstract text size */
   font-style: italic; /* Make the text italic */
 }
 
-.paper details p.request-line a {
+.paper p.request-line a {
   text-decoration: underline; /* Underline the link */
   color: #007bff; /* Optional: change the link color */
 }
 
-.paper details p.request-line a:hover {
+.paper p.request-line a:hover {
   color: #0056b3; /* Optional: change the link color on hover */
 }
