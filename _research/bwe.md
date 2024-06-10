@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "The Working Capital Channel of Investment under Uncertainty"
 permalink: /research/bwe
 collection: Working Papers
@@ -8,23 +7,3 @@ paperurl: null
 ---
 
 ## Research
-
-{% for paper in site.data.papers %}
-<div class="paper">
-  <h3>{{ paper.title }}</h3>
-  <p>{{ paper.authors }}</p>
-  <p>{{ paper.journal }}</p>
-  
-  <!-- Abstract Button -->
-  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#abstract-{{ forloop.index }}" aria-expanded="false" aria-controls="abstract-{{ forloop.index }}">
-    Show Abstract
-  </button>
-  
-  <!-- Collapsible Abstract -->
-  <div class="collapse" id="abstract-{{ forloop.index }}">
-    <div class="card card-body">
-      {{ paper.abstract }}
-    </div>
-  </div>
-</div>
-{% endfor %}
