@@ -14,17 +14,15 @@
   font-size: 1.1em; /* Adjust the font size as needed */
 }
 
+
+/* Style the abstract text */
 .paper details p.abstract-text {
   font-size: 0.90em;
-  padding-left: 10px; /* Provides indentation */
-  padding-right: 10px; /* Provides indentation */
-  margin-top: 5px; /* Reduces the top margin to bring text closer to summary */
+  padding: 10px; /* Add padding for equal left and right margins */
+  margin: 10px 0; /* Add top and bottom margin */
+  line-height: 1.5; /* Adjust line spacing */
 }
 
-/* Increase line spacing of text in abstract text box */
-.paper details p.abstract-text {
-  line-height: 1.5; /* Adjust the line height as needed */
-}
 
 /* Add gray background color to abstract text when abstract button is clicked */
 .paper details[open] .abstract-text {
