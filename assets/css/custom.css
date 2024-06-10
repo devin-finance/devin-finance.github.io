@@ -20,6 +20,10 @@
   margin-top: 3px; /* Reduces the top margin to bring text closer to summary */
 }
 
+/* Increase line spacing of text in abstract text box */
+.paper details p.abstract-text {
+  line-height: 1.5; /* Adjust the line height as needed */
+}
 
 /* Add gray background color to abstract text when abstract button is clicked */
 .paper details[open] .abstract-text {
