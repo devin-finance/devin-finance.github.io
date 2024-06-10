@@ -21,6 +21,7 @@
 }
 
 
-details[open] .abstract-text {
+/* Add gray background color to abstract text when abstract button is clicked */
+.paper details[open] .abstract-text {
   background-color: #f0f0f0; /* Gray background color */
 }
