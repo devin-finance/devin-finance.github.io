@@ -11,30 +11,6 @@
 */
 
 
-
-/* Adjust width of the left column */
-.left-column .author__avatar .rounded-circle {
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    object-fit: cover;
-}
-
-
-
-/* Align content to the left */
-.page-content {
-  text-align: left;
-}
-
-.rounded-circle {
-    width: 100px;  // Fixed width
-    height: 100px; // Fixed height to maintain aspect ratio
-    border-radius: 50%;
-    object-fit: cover; // Keeps the image scaled correctly within the bounds
-}
-
-
 // Import mixins and other dependencies
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
@@ -76,7 +52,54 @@
 
 
 
+/* Adjust width of the left column */
+.left-column .author__avatar .rounded-circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
 
+
+
+/* Align content to the left */
+.page-content {
+  text-align: left;
+}
+
+.rounded-circle {
+    width: 100px;  // Fixed width
+    height: 100px; // Fixed height to maintain aspect ratio
+    border-radius: 50%;
+    object-fit: cover; // Keeps the image scaled correctly within the bounds
+}
+
+
+// Increase space between first header and second header
+.masthead__menu {
+  padding-top: 20px;  // Increase the space between the first and second header
+}
+
+.masthead__menu ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: flex-start; // Aligns items to the start (left)
+}
+
+
+
+/*
+.masthead__menu-item a {
+  text-decoration: none;
+  color: #000; // Adjust the color as needed
+}
+
+.masthead__menu-item a:hover {
+  text-decoration: underline;
+}
+*/
 
 
 // Override font-family for body and headings
