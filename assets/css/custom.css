@@ -20,3 +20,7 @@
   margin-top: 3px; /* Reduces the top margin to bring text closer to summary */
 }
 
+
+details[open] .abstract-text {
+  background-color: #f0f0f0; /* Gray background color */
+}
