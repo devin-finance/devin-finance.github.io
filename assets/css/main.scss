@@ -81,8 +81,11 @@
 .masthead__inner-wrap {
   max-width: 1200px;  // Match this value to your content width
   margin: 0 auto;     // Center the masthead
-  padding-left: 10%;  // Optional: adjust the left padding
-  padding-right: 10%; // Optional: adjust the right padding
+}
+
+// Increase space between first header and second header
+.masthead__menu {
+  padding-top: 20px;  // Increase the space between the first and second header
 }
 
 // Align the navigation items properly
