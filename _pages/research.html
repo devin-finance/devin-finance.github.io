@@ -22,8 +22,10 @@ author_profile: true
             <p class="abstract-text">{{ paper.abstract }}</p>
           </details>
 
-           <!-- Presented at line -->
-          <p><strong>Presented at:</strong> {{ paper.presented_at }}</p>
+          <!-- Presented at line (displayed only when presented_at is not empty) -->
+          {% if paper.presented_at %}
+            <p><strong>Presented at:</strong> {{ paper.presented_at }}</p>
+          {% endif %}
         </div>
       </li> <!-- End of list item -->
     {% endfor %}
