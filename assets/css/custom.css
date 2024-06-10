@@ -19,8 +19,3 @@
   padding-left: 20px; /* Provides indentation */
   margin-top: 3px; /* Reduces the top margin to bring text closer to summary */
 }
-
-.container {
-  max-width: 800px; /* Adjust the maximum width as needed */
-  margin: 0 auto; /* Center the container horizontally */
-}
