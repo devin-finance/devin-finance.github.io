@@ -1,11 +1,17 @@
-/* Style the summary and abstract text */
-details summary {
-  cursor: pointer;
-  font-weight: normal;
-  margin-top: 3px;
+/* Targeting the h3 title directly above the summary */
+.paper h3 {
+  margin-bottom: 5px; /* Reduce the space below the title */
 }
 
-details p.abstract-text {
+/* Style the summary and abstract text */
+.paper details summary {
+  cursor: pointer;
+  font-weight: normal;
+  margin-top: 0px;  /* Reduce or eliminate space above the summary */
+}
+
+.paper details p.abstract-text {
   font-size: 0.90em;
-  margin: 10px 0 0 20px;
+  padding-left: 20px; /* Provides indentation */
+  margin-top: 5px; /* Reduces the top margin to bring text closer to summary */
 }
