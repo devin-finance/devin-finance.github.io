@@ -7,24 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<div class="research-list">
-  {% for post in site.research %}
-    <div class="paper">
-      <h3>{{ post.title }}</h3>
-      <p>{{ post.authors }}</p>
-      <p>{{ post.journal }}</p>
-      
-      <!-- Abstract Button -->
-      <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#abstract-{{ forloop.index }}" aria-expanded="false" aria-controls="abstract-{{ forloop.index }}">
-        Show Abstract
-      </button>
-      
-      <!-- Collapsible Abstract -->
-      <div class="collapse" id="abstract-{{ forloop.index }}">
-        <div class="card card-body">
-          {{ post.abstract }}
-        </div>
-      </div>
-    </div>
-  {% endfor %}
-</div>
+
+{% for post in site.research %}
+  {% include archive-single.html %}
+{% endfor %}
