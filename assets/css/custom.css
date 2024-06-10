@@ -46,3 +46,8 @@
 .paper p.request-line a:hover {
   color: #0056b3; /* Optional: change the link color on hover */
 }
+
+
+.page__footer-copyright a {
+  color: inherit !important;
+}
