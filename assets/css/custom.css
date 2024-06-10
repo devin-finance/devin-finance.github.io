@@ -17,7 +17,7 @@
 .paper details p.abstract-text {
   font-size: 0.90em;
   padding-left: 20px; /* Provides indentation */
-  margin-top: 3px; /* Reduces the top margin to bring text closer to summary */
+  margin-top: 5px; /* Reduces the top margin to bring text closer to summary */
 }
 
 /* Increase line spacing of text in abstract text box */
