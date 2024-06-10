@@ -16,7 +16,8 @@
 
 .paper details p.abstract-text {
   font-size: 0.90em;
-  padding-left: 20px; /* Provides indentation */
+  padding-left: 10px; /* Provides indentation */
+  padding-right: 10px; /* Provides indentation */
   margin-top: 5px; /* Reduces the top margin to bring text closer to summary */
 }
 
