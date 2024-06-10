@@ -11,11 +11,16 @@
 }
 
 .paper-title {
-  font-size: 1em; /* Adjust the font size as needed */
+  font-size: 0.9em; /* Adjust the font size as needed */
 }
 
 .paper details p.abstract-text {
   font-size: 0.90em;
   padding-left: 20px; /* Provides indentation */
   margin-top: 3px; /* Reduces the top margin to bring text closer to summary */
+}
+
+.container {
+  max-width: 800px; /* Adjust the maximum width as needed */
+  margin: 0 auto; /* Center the container horizontally */
 }
