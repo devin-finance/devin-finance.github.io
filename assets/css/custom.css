@@ -47,3 +47,10 @@
   color: #0056b3; /* Optional: change the link color on hover */
 }
 
+
+.page__footer-copyright a.jekyll-link,
+.page__footer-copyright a.minimal-mistakes-link {
+  text-decoration: none;
+  color: inherit;
+}
+
