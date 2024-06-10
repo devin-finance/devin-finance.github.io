@@ -51,63 +51,26 @@
 @import "print";
 
 
-
-// Adjust width of the left column
+/* Adjust width of the left column */
 .left-column .author__avatar .rounded-circle {
-  width: 100px;
-  height: 100px;
-  border-radius: 50%;
-  object-fit: cover;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
 }
 
 
-// Align content to the left
+
+/* Align content to the left */
 .page-content {
   text-align: left;
-  max-width: 1200px;  // Adjust to your content width
-  margin: 0 auto;     // Center the content
-  padding: 0 10%;     // Add padding on the sides
 }
 
 .rounded-circle {
-  width: 100px;  // Fixed width
-  height: 100px; // Fixed height to maintain aspect ratio
-  border-radius: 50%;
-  object-fit: cover; // Keeps the image scaled correctly within the bounds
-}
-
-
-// Center the masthead content
-.masthead__inner-wrap {
-  max-width: 1200px;  // Match this value to your content width
-  margin: 0 auto;     // Center the masthead
-}
-
-// Increase space between first header and second header
-.masthead__menu {
-  padding-top: 20px;  // Increase the space between the first and second header
-}
-
-// Align the navigation items properly
-.masthead__menu ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  display: flex;
-  justify-content: flex-start; // Aligns items to the start (left)
-}
-
-.masthead__menu-item {
-  margin-right: 20px; // Space between navigation items
-}
-
-.masthead__menu-item a {
-  text-decoration: none;
-  color: #000; // Adjust the color as needed
-}
-
-.masthead__menu-item a:hover {
-  text-decoration: underline;
+    width: 100px;  // Fixed width
+    height: 100px; // Fixed height to maintain aspect ratio
+    border-radius: 50%;
+    object-fit: cover; // Keeps the image scaled correctly within the bounds
 }
 
 
