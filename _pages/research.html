@@ -7,7 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
-
-{% for post in site.research %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="research-list">
+  {% for paper in site.research %}
+    <div class="paper">
+      <h3>{{ paper.title }}</h3>
+      <p>{{ paper.authors }}</p>
+      <p>{{ paper.journal }}</p>
+      
+      <!-- Collapsible Abstract -->
+      <details>
+        <summary>Abstract</summary>
+        <p class="abstract-text">{{ paper.abstract }}</p>
+      </details>
+    </div>
+  {% endfor %}
+</div>
