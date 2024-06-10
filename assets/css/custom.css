@@ -21,6 +21,7 @@
   padding: 10px; /* Add padding for equal left and right margins */
   margin: 10px 0; /* Add top and bottom margin */
   line-height: 1.5; /* Adjust line spacing */
+  text-align: justify; /* Justify the text */
 }
 
 
