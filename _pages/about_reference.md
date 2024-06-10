@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
 ---
 
-![mountains](/images/mountain.png){: .align-right width='340px'}
+![mountains](/images/mountain.png){: .align-right width='300px'}
 
 I'm a Finance PhD Student at Penn State University. 
 
