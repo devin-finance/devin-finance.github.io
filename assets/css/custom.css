@@ -19,7 +19,7 @@
 .paper details p.abstract-text {
   font-size: 0.90em;
   padding: 10px 12px; /* Add padding for left and right margins */
-  margin: 10px 0; /* Add top and bottom margin */
+  margin: 10px 5px; /* Add top and bottom margin */
   line-height: 1.5; /* Adjust line spacing */
   text-align: justify; /* Justify the text */
 }
