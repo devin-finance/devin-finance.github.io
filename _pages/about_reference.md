@@ -19,4 +19,6 @@ Feel free to contact me at zxz5471[at]psu[dot]edu.
 
 
 ------
-<p style="font-size: 0.8em;">© 2024 Devin Zhang. Powered by <a href="https://jekyllrb.com/">Jekyll</a> using the <a href="https://mmistakes.github.io/minimal-mistakes/docs/configuration/">Minimal Mistakes theme</a>.</p>
+<p style="font-size: 0.8em; text-decoration: none; color: inherit;">
+  © 2024 Devin Zhang. Powered by <a href="https://jekyllrb.com/" style="text-decoration: none; color: inherit;">Jekyll</a> using the <a href="https://mmistakes.github.io/minimal-mistakes/docs/configuration/" style="text-decoration: none; color: inherit;">Minimal Mistakes theme</a>.
+</p>
