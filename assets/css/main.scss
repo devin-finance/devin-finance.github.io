@@ -11,6 +11,28 @@
 */
 
 
+/* Adjust width of the left column */
+.left-column .author__avatar .rounded-circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+
+/* Align content to the left */
+.page-content {
+  text-align: left;
+}
+
+.rounded-circle {
+    width: 100px;  // Fixed width
+    height: 100px; // Fixed height to maintain aspect ratio
+    border-radius: 50%;
+    object-fit: cover; // Keeps the image scaled correctly within the bounds
+}
+
+
 // Import mixins and other dependencies
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
@@ -40,6 +62,7 @@
 @import "archive";
 @import "sidebar";
 
+
 // Import Font Awesome and Magnific Popup styles
 @import "vendor/font-awesome/fontawesome";
 @import "vendor/font-awesome/solid";
@@ -51,40 +74,6 @@
 
 
 
-// Align content to the left
-.page-content {
-  text-align: left;
-}
-
-.rounded-circle {
-  width: 100px;  // Fixed width
-  height: 100px; // Fixed height to maintain aspect ratio
-  border-radius: 50%;
-  object-fit: cover; // Keeps the image scaled correctly within the bounds
-}
-
-*/
-// Center the masthead content
-.masthead__inner-wrap {
-  max-width: 1200px;  // Match this value to your content width
-  margin: 0 auto;     // Center the masthead
-}
-*/
-
-// Align the second header (menu) with the page content
-.masthead__menu-container {
-  padding-left: 10%; // Adjust this to match the content padding
-  padding-right: 10%; // Adjust this to match the content padding
-}
-
-.masthead__menu ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  display: flex;
-  justify-content: flex-start; // Aligns items to the start (left)
-}
-
 /*
 .masthead__menu-item a {
   text-decoration: none;
@@ -92,9 +81,10 @@
 }
 
 .masthead__menu-item a:hover {
-  text-decoration: underline; // Add the underline
+  text-decoration: underline;
 }
 */
+
 
 // Override font-family for body and headings
 body {
