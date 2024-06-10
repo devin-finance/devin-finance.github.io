@@ -7,7 +7,7 @@
 .paper details summary {
   cursor: pointer;
   font-weight: normal;
-  margin-top: 0px;  /* Reduce or eliminate space above the summary */
+  margin-top: 3px;  /* Reduce or eliminate space above the summary */
 }
 
 .paper-title {
