@@ -19,3 +19,8 @@
   padding-left: 20px; /* Provides indentation */
   margin-top: 3px; /* Reduces the top margin to bring text closer to summary */
 }
+
+
+.paper-title {
+  font-size: 1em; /* Adjust the font size as needed */
+}
