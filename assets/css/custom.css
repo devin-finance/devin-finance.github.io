@@ -10,8 +10,12 @@
   margin-top: 0px;  /* Reduce or eliminate space above the summary */
 }
 
+.paper-title {
+  font-size: 1em; /* Adjust the font size as needed */
+}
+
 .paper details p.abstract-text {
   font-size: 0.90em;
   padding-left: 20px; /* Provides indentation */
-  margin-top: 5px; /* Reduces the top margin to bring text closer to summary */
+  margin-top: 3px; /* Reduces the top margin to bring text closer to summary */
 }
