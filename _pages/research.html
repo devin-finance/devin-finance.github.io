@@ -1,0 +1,30 @@
+---
+layout: archive
+title: "Working Papers"
+permalink: /research/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% include base_path %}
+
+<div class="research-list">
+  <ul> <!-- Start of bullet list -->
+    {% for paper in site.research %}
+      <li> <!-- Start of list item -->
+        <div class="paper">
+          <h3>{{ paper.title }}</h3>
+          <p>{{ paper.authors }}</p>
+          <p>{{ paper.journal }}</p>
+          
+          <!-- Collapsible Abstract -->
+          <details>
+            <summary>Abstract</summary>
+            <p class="abstract-text">{{ paper.abstract }}</p>
+          </details>
+        </div>
+      </li> <!-- End of list item -->
+    {% endfor %}
+  </ul> <!-- End of bullet list -->
+</div>
