@@ -1,8 +1,8 @@
 /* Style the summary and abstract text */
 details summary {
   cursor: pointer;
-  font-weight: bold;
-  margin-top: 10px;
+  font-weight: normal;
+  margin-top: 9px;
 }
 
 details p.abstract-text {
