@@ -33,7 +33,7 @@
 
 /* Style the new request line */
 .paper p.request-line {
-  margin-top: 15px; /* Space between abstract text and request line */
+  margin-top: 20px; /* Space between abstract text and request line */
   font-size: 0.90em; /* Match the abstract text size */
   font-style: italic; /* Make the text italic */
 }
