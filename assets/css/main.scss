@@ -51,12 +51,8 @@
 @import "print";
 
 
-.second-header {
-  margin-left: 20px; /* Adjust this value as needed */
-}
-
-.third-header {
-  margin-left: 40px; /* Adjust this value as needed */
+.masthead__menu-item--lg {
+  margin-right: 20px; // Adjust the margin to create space
 }
 
 /* And so on for subsequent headers */
