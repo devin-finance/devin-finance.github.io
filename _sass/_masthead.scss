@@ -16,7 +16,7 @@
     @include container;
     @include clearfix;
     padding: 20px 1em 1em;  /* Updated padding-top to 20px */
-    font-family: 'Helvetica', sans-serif; /* Set font to Helvetica */
+    font-family: $sans-serif-narrow
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -47,7 +47,6 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
-  font-family: 'Helvetica', sans-serif; /* Set font to Helvetica */
   color: rgb(51, 51, 50); /* Set font color to dark gray */
 
   -webkit-animation: intro 0.3s both; /* Apply animation only to masthead__menu-item */
@@ -60,8 +59,5 @@
   padding-right: 2em;
   font-weight: 700;
   width: 242.25px; /* Set width for masthead__menu-item--lg */
-  
-  /* Ensure this item does not inherit the animation */
-  -webkit-animation: none;
-  animation: none;
+
 }
