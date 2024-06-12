@@ -72,15 +72,22 @@
   padding: 0;
   margin: 0;
   align-items: center; // Vertically align items
+  flex-wrap: nowrap;   // Prevent items from wrapping
 }
 
 .masthead__menu ul.visible-links li {
   margin-left: 20px; // Space between nav links
+  white-space: nowrap; // Prevent text from wrapping
 }
 
 // Ensure the navicon button is also aligned
 .masthead__menu button {
   margin-left: auto;
+}
+
+// Additional adjustment for the masthead to prevent overlap
+.masthead {
+  overflow: hidden;
 }
 
 /*
