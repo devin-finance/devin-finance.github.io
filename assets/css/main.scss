@@ -50,6 +50,7 @@
 // Import print styles
 @import "print";
 
+
 // Center the masthead content
 .masthead__inner-wrap {
   max-width: 1200px;  // Match this value to your content width
@@ -57,6 +58,7 @@
   display: flex;
   justify-content: space-between; // Ensure space between title and nav links
   align-items: center; // Vertically align items
+  padding: 0 20px; // Add padding to the sides
 }
 
 
@@ -64,6 +66,7 @@
 .masthead__menu .masthead__menu-item--lg {
   margin-right: 20px; // Add space between title and nav links
 }
+
 
 // Style for navigation links
 .masthead__menu ul.visible-links {
@@ -82,6 +85,18 @@
 .masthead__menu button {
   margin-left: auto;
 }
+
+// Additional adjustment for the masthead to prevent overlap
+.masthead {
+  overflow: visible; // Ensure content is visible
+  border-bottom: 1px solid #eaeaea; // Add a subtle border for separation
+}
+
+// Ensure the header is properly spaced
+.masthead__menu {
+  padding: 10px 0; // Add vertical padding for the header
+}
+
 
 /*
 .masthead__menu-item a {
