@@ -51,8 +51,9 @@
 @import "print";
 
 
-.masthead__menu-item--lg {
-  margin-right: 20px; // Adjust the margin to create space
+// Style for the site title
+.masthead__menu .masthead__menu-item--lg {
+  margin-right: 20px; // Add space between title and nav links
 }
 
 /* And so on for subsequent headers */
