@@ -35,7 +35,7 @@
 .masthead__menu {
 
   ul {
-   margin-left: 15px;
+    margin-left: 10px;
     padding: 0;
     clear: both;
     list-style-type: none;
@@ -48,10 +48,6 @@
   white-space: nowrap;
   color: rgb(79, 167, 212); /* Set font color to RGB 79, 167, 212 (blue)*/
 
-  -webkit-animation: intro 0.3s both; /* Apply animation only to masthead__menu-item */
-  animation: intro 0.3s both;
-  -webkit-animation-delay: 0.15s;
-  animation-delay: 0.15s;
 }
 
 .masthead__menu-item--lg {
