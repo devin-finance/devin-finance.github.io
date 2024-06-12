@@ -51,11 +51,11 @@
 @import "print";
 
 
-// Style for the site title
-.masthead__menu .masthead__menu-item--lg {
-  margin-right: 20px; // Add space between title and nav links
+// Ensure the navicon button is also aligned
+.masthead__menu button {
+  margin-left: auto;
+  display: none; // Hide button if not used
 }
-
 
 
 /*
