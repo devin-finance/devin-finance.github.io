@@ -51,11 +51,9 @@
 @import "print";
 
 
-// Center the masthead content
-.masthead__inner-wrap {
-  max-width: 1200px;  // Match this value to your content width
-  margin: 0 auto;     // Center the masthead
-  display: flex;
+// Style for the site title
+.masthead__menu .masthead__menu-item--lg {
+  margin-right: 20px; // Add space between title and nav links
 }
 
 
