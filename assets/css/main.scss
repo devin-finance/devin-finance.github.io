@@ -59,11 +59,6 @@
 }
 
 
-// Style for the site title
-.masthead__menu .masthead__menu-item--lg {
-  margin-right: 50px; // Add space between title and nav links
-}
-
 // Style for navigation links
 .masthead__menu ul.visible-links {
   display: flex;
@@ -74,9 +69,14 @@
 }
 
 .masthead__menu ul.visible-links li {
-  margin-left: 50px; // Space between nav links
+  margin-left: 30px; // Space between nav links
 }
 
+
+// Ensure the navicon button is also aligned
+.masthead__menu button {
+  margin-left: auto;
+}
 
 /*
 .masthead__menu-item a {
