@@ -51,31 +51,6 @@
 @import "print";
 
 
-.masthead__inner-wrap {
-  padding-top: 20px;
-}
-
-.masthead__menu .masthead__menu-item--lg {
-  width: 242.25px; 
-}
-
-.masthead__menu-item {
-  margin-left: 15px; /* Adjust spacing between menu items */
-}
-
-
-/* Remove underline and change color to dark gray for the header links */
-.masthead__menu-item a {
-  text-decoration: none;
-  color: #333; /* Dark gray color */
-}
-
-/* Ensure underline does not appear on hover */
-.masthead__menu-item a:hover {
-  text-decoration: none;
-  color: #333; /* Ensure the color remains dark gray on hover */
-}
-
 
 /*
 .masthead__menu-item a {
