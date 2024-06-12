@@ -52,6 +52,13 @@
 
 
 
+/* Remove underline and change color to dark gray for the header links */
+.masthead__menu-item a {
+  text-decoration: none;
+  color: rgb(79, 167, 212); /* Set font color to RGB 79, 167, 212 (blue)*/
+}
+
+
 /*
 .masthead__menu-item a {
   text-decoration: none;
