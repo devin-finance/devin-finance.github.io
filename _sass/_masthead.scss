@@ -10,8 +10,13 @@
   top: 0;
   width: 100%;
 
+  -webkit-animation: intro 0.3s both;
+          animation: intro 0.3s both;
+  -webkit-animation-delay: 0.15s;
+          animation-delay: 0.15s;
   z-index: 20;
 
+   
   &__inner-wrap {
     @include container;
     @include clearfix;
@@ -46,12 +51,6 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
-
-
-  -webkit-animation: intro 0.3s both; /* Apply animation only to masthead__menu-item */
-  animation: intro 0.3s both;
-  -webkit-animation-delay: 0.15s;
-  animation-delay: 0.15s;
 }
 
 
@@ -59,8 +58,4 @@
    padding-right: 116.125px; /* Adjust right padding */ 
     font-weight: 700;
     /* width: 240.25px;  Set width for masthead__menu-item--lg */
-
-   /* Remove animation for masthead__menu-item--lg */
-  -webkit-animation: none;
-  animation: none;
   }
