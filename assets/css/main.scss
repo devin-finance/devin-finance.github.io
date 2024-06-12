@@ -51,23 +51,30 @@
 @import "print";
 
 
-// Align content to the left
-.page-content {
-  text-align: left;
-  max-width: 1200px;  // Adjust to your content width
-  margin: 0 auto;     // Center the content
-  padding: 0 10%;     // Add padding on the sides
-}
-
 // Center the masthead content
 .masthead__inner-wrap {
   max-width: 1200px;  // Match this value to your content width
   margin: 0 auto;     // Center the masthead
+  display: flex;
+  justify-content: space-between; // Ensure space between title and nav links
+  align-items: center; // Vertically align items
 }
 
-// Adjust the position of the second and following headers (menu items)
-.masthead__menu ul.visible-links li:not(:first-child) {
-  margin-left: 50px; // Adjust this value to move the headers to the right
+// Style for the site title
+.masthead__menu .masthead__menu-item--lg {
+  margin-right: auto; // Push the nav links to the right
+}
+
+// Style for navigation links
+.masthead__menu ul.visible-links {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.masthead__menu ul.visible-links li {
+  margin-left: 20px; // Space between nav links
 }
 
 
