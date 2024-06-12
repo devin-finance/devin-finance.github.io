@@ -28,7 +28,6 @@
 
     a {
       text-decoration: none;
-      color: rgb(51, 51, 50); /* Set font color to dark gray */
     }
   }
 }
@@ -47,7 +46,7 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
-  color: rgb(51, 51, 50); /* Set font color to dark gray */
+  color: rgb(79, 167, 212); /* Set font color to RGB 79, 167, 212 (blue)*/
 
   -webkit-animation: intro 0.3s both; /* Apply animation only to masthead__menu-item */
   animation: intro 0.3s both;
@@ -58,6 +57,5 @@
 .masthead__menu-item--lg {
   padding-right: 2em;
   font-weight: 700;
-  width: 242.25px; /* Set width for masthead__menu-item--lg */
-
+  width: 240.25px; /* Set width for masthead__menu-item--lg */
 }
