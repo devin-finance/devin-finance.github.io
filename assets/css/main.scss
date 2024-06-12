@@ -56,8 +56,6 @@
   max-width: 1200px;  // Match this value to your content width
   margin: 0 auto;     // Center the masthead
   display: flex;
-  justify-content: space-between; // Ensure space between title and nav links
-  padding: 0 20px; // Add padding to the sides
 }
 
 // Style for the site title
@@ -75,7 +73,7 @@
 }
 
 .masthead__menu ul.visible-links li {
-  margin-left: 20px; // Space between nav links
+  margin-left: 50px; // Space between nav links
 }
 
 
