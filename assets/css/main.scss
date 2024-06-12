@@ -58,29 +58,6 @@
   display: flex;
 }
 
-// Style for the site title
-.masthead__menu .masthead__menu-item--lg {
-  margin-right: 20px; // Add space between title and nav links
-}
-
-// Style for navigation links
-.masthead__menu ul.visible-links {
-  display: flex;
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  align-items: center; // Vertically align items
-}
-
-.masthead__menu ul.visible-links li {
-  margin-left: 50px; // Space between nav links
-}
-
-
-// Ensure the navicon button is also aligned
-.masthead__menu button {
-  margin-left: auto;
-}
 
 
 /*
