@@ -68,19 +68,6 @@
 }
 
 
-// Style for navigation links
-.masthead__menu ul.visible-links {
-  display: flex;
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  align-items: center; // Vertically align items
-}
-
-.masthead__menu ul.visible-links li {
-  margin-left: 20px; // Space between nav links
-}
-
 // Ensure the navicon button is also aligned
 .masthead__menu button {
   margin-left: auto;
