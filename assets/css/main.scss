@@ -51,18 +51,25 @@
 @import "print";
 
 
+.masthead__menu {
+  display: flex;
+  align-items: center; /* Align items vertically */
+}
+
+/*
 .masthead__menu .masthead__menu-item {
   display: block;
   list-style-type: none;
   margin-right: 20px; /* Adjust spacing between menu items */
 }
+*/ 
 
 .masthead__menu .masthead__menu-item--lg {
   font-weight: bold; /* Example style for the main title */
 }
 
 .page__inner-wrap {
-  max-width: 300px; /* Example max width for the page content */
+  max-width: 800px; /* Example max width for the page content */
 }
 
 
