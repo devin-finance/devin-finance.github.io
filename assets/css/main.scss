@@ -51,16 +51,10 @@
 @import "print";
 
 
-.masthead__menu-item--lg {
-  /* Adjust margin-right to move the second header right */
-  margin-right: 20px;
+/* Increase space between first title header and second header */
+.masthead__menu .masthead__menu-item--lg {
+  margin-right: 40px; /* Adjust the margin as needed */
 }
-
-.masthead__menu-item--md {
-  /* Adjust margin-right to move the third header right */
-  margin-right: 40px; /* Increase the margin for more space */
-}
-
 
 /*
 .masthead__menu-item a {
