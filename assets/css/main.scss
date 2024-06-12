@@ -51,10 +51,14 @@
 @import "print";
 
 
-/* Increase space between first title header and second header */
-.masthead__menu .masthead__menu-item--lg {
-  margin-right: 100px; /* Adjust the margin as needed */
+/* Align the second header with the main text column */
+.masthead__inner-wrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start; /* Align items to the start (top) of the container */
 }
+
+
 
 /*
 .masthead__menu-item a {
