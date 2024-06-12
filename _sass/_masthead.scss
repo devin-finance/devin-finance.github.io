@@ -47,9 +47,19 @@
   list-style-type: none;
   white-space: nowrap;
 
-  &--lg {
+  webkit-animation: intro 0.3s both; /* Apply animation only to masthead__menu-item */
+  animation: intro 0.3s both;
+  webkit-animation-delay: 0.15s;
+  animation-delay: 0.15s;
+}
+
+
+.masthead__menu-item--lg {
     padding-right: 2em;
     font-weight: 700;
     width: 240.25px; /* Set width for masthead__menu-item--lg */
+
+   /* Remove animation for masthead__menu-item--lg */
+  webkit-animation: none;
+  animation: none;
   }
-}
