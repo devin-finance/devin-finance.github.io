@@ -84,7 +84,6 @@
 // Ensure the navicon button is also aligned
 .masthead__menu button {
   margin-left: auto;
-  display: none; // Hide button if not used
 }
 
 // Additional adjustment for the masthead to prevent overlap
@@ -93,11 +92,6 @@
   border-bottom: 1px solid #eaeaea; // Add a subtle border for separation
 }
 
-// Remove underline and default link color for header links
-.masthead__menu a {
-  text-decoration: none;
-  color: inherit; // Use the inherited color
-}
 
 // Ensure the header is properly spaced
 .masthead__menu {
