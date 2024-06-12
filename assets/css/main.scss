@@ -51,12 +51,16 @@
 @import "print";
 
 
-// Style for the site title
-.masthead__menu .masthead__menu-item--lg {
-  margin-right: 20px; // Add space between title and nav links
+// Center the masthead content
+.masthead__inner-wrap {
+  max-width: 1200px;  // Match this value to your content width
+  margin: 0 auto;     // Center the masthead
+  display: flex;
+  justify-content: space-between; // Ensure space between title and nav links
+  align-items: center; // Vertically align items
+  padding: 0 20px; // Add padding to the sides
 }
 
-/* And so on for subsequent headers */
 
 
 /*
