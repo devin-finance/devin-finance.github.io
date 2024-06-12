@@ -51,13 +51,10 @@
 @import "print";
 
 
-/* Align the second header with the main text column */
-.masthead__inner-wrap {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start; /* Align items to the start (top) of the container */
+/* Adjust the margin of the second header */
+.masthead__menu-item--lg {
+  margin-right: 60px; /* Adjust the margin as needed */
 }
-
 
 
 /*
