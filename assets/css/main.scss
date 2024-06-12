@@ -51,9 +51,18 @@
 @import "print";
 
 
+.masthead__inner-wrap {
+  padding-top: 20px;
+}
+
 .masthead__menu .masthead__menu-item--lg {
   width: 235.25px; 
 }
+
+.masthead__menu-item {
+  margin-left: 10px; /* Adjust spacing between menu items */
+}
+
 
 
 /*
