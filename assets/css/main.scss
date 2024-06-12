@@ -50,14 +50,11 @@
 // Import print styles
 @import "print";
 
-.masthead__menu ul.visible-links {
-  display: flex;
-  align-items: center; /* Vertically align items */
+
+.masthead__menu .masthead__menu-item--lg {
+  width: 173.969px
 }
 
-.masthead__menu ul.visible-links li {
-  margin-left: 20px; /* Space between nav links */
-}
 
 
 
