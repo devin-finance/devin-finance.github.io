@@ -50,29 +50,15 @@
 // Import print styles
 @import "print";
 
-
-// Style for the site title
-.masthead__menu .masthead__menu-item--lg {
-  margin-right: 20px; // Add space between title and nav links
-}
-
-// Style for navigation links
-.masthead__menu ul.visible-links {
+// Center the masthead content
+.masthead__inner-wrap {
+  max-width: 1200px;  // Match this value to your content width
+  margin: 0 auto;     // Center the masthead
   display: flex;
-  list-style: none;
-  padding: 0;
-  margin: 0;
+  justify-content: space-between; // Ensure space between title and nav links
   align-items: center; // Vertically align items
 }
 
-.masthead__menu ul.visible-links li {
-  margin-left: 20px; // Space between nav links
-}
-
-// Ensure the navicon button is also aligned
-.masthead__menu button {
-  margin-left: auto;
-}
 
 
 /*
