@@ -27,6 +27,11 @@ author_profile: true
             <p><strong>Presented at:</strong> {{ paper.presented_at }}</p>
           {% endif %}
 
+          <!-- Presentation line -->
+          {% if paper.Presentation %}
+            <p><strong>Presentation:</strong> {{ paper.Presentation }}</p>
+          {% endif %}
+          
           <!-- Draft available upon when it is not empty) -->
           {% if paper.draft_request %}
               <p class="request-line">Draft available upon <a href="mailto:zxz5471@psu.edu">request</a></p>
