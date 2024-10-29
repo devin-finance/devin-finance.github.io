@@ -62,6 +62,12 @@
 }
 */
 
+// Center the site title
+.masthead__menu-item--lg {
+  text-align: center; /* Center the text */
+  width: 100%; /* Ensure it takes the full width of its container */
+}
+
 
 // Override front page font 
 .page__content {
