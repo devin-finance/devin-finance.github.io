@@ -139,7 +139,7 @@ social:
 analytics:
   provider               : "custom"
   google:
-    tracking_id          : "G-KSMMCKYWLQ"
+    tracking_id          :
 
 
 # Add a Google search box to your site
