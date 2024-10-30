@@ -14,9 +14,10 @@ Feel free to email me at zxz5471[at]psu[dot]edu.
 <br> <!-- Adds a line space before the introduction -->
 
 
-![mountains](/images/mountain.png){: width='700px'}
-  <figcaption style="font-size: 0.75em; padding-top: 2px; text-align: left;">Everest Base Camp (EBC) Trek, Nepal, March 2019 </figcaption>
-
+<figure style="text-align: left; max-width: 100%;">
+  <img src="/images/mountain.png" alt="mountains" width="700px">
+  <figcaption style="font-size: 0.9em; margin-top: 2px; text-align: left;">EBC, Nepal</figcaption> 
+</figure>
 
 <br><br><br><br>
 
