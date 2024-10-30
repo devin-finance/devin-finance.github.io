@@ -11,6 +11,8 @@ I am a Finance Ph.D. Student at The Pennsylvania State University. My research i
 
 Feel free to email me at zxz5471[at]psu[dot]edu.
 
+<br> <!-- Adds a line space before the introduction -->
+
 
 ![mountains](/images/mountain.png){: width='700px'}
   <figcaption style="font-size: 0.75em; margin-top: 0px; text-align: left;">EBC, Nepal</figcaption>
