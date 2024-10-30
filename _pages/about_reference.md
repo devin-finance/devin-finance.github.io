@@ -7,7 +7,7 @@ redirect_from:
 
 <br> <!-- Adds a line space before the introduction -->
 
-I am a Finance Ph.D. Student at The Pennsylvania State University. My research interests include operations management, innovation, and corporate investment. 
+I am a Finance Ph.D. student at The Pennsylvania State University. My research interests include operations management, innovation, and corporate investment. 
 
 Feel free to email me at zxz5471[at]psu[dot]edu.
 
