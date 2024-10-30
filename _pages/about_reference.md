@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Finance Ph.D. student at The Pennsylvania State University. My research interests include supply chain management, innovation, and corporate investment. 
 
-Feel free to email me at zxz5471[at]psu[dot]edu.
+If you have any questions or comments, please feel free to contact me zxz5471[at]psu[dot]edu.
 
 <br> <!-- Adds a line space before the introduction -->
 
