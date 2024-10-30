@@ -5,7 +5,10 @@ author_profile: true
 redirect_from: 
 ---
 
-![mountains](/images/mountain.png){: .align-right width='320px'}
+<figure style="float: right; width: 320px;">
+  ![mountains](/images/mountain.png){: .align-right width='320px'}
+  <figcaption style="text-align: center; font-size: 0.9em; margin-top: 5px;">EBC, Nepal</figcaption>
+</figure>
 
 I'm a Finance PhD Student at Penn State University. 
 
