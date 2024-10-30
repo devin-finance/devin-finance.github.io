@@ -13,7 +13,7 @@ Feel free to email me at zxz5471[at]psu[dot]edu.
 
 
 ![mountains](/images/mountain.png){: width='700px'}
-  <figcaption style="font-size: 0.7em; margin-top: 2px; text-align: left;">EBC, Nepal</figcaption>
+  <figcaption style="font-size: 0.75em; margin-top: 0px; text-align: left;">EBC, Nepal</figcaption>
 
 
 <br><br><br><br>
