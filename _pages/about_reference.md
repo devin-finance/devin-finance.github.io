@@ -12,7 +12,7 @@ I am a Finance Ph.D. Student at The Pennsylvania State University. My research i
 Feel free to email me at zxz5471[at]psu[dot]edu.
 
 
-![mountains](/images/mountain.png){: width='600px'}
+![mountains](/images/mountain.png){: width='660px'}
   <figcaption style="font-size: 0.9em; margin-top: 5px; text-align: left;">EBC, Nepal</figcaption>
 
 
