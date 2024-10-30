@@ -15,7 +15,7 @@ Feel free to email me at zxz5471[at]psu[dot]edu.
 
 
 ![mountains](/images/mountain.png){: width='700px'}
-  <figcaption style="font-size: 0.75em; margin-top: -0.5px; text-align: left;">EBC, Nepal</figcaption>
+  <figcaption style="font-size: 0.75em; margin-top: -0.5px; text-align: left;">Everest Base Camp (EBC) Trek, Nepal, March 2019 </figcaption>
 
 
 <br><br><br><br>
