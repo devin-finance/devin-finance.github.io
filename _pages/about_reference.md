@@ -5,16 +5,18 @@ author_profile: true
 redirect_from: 
 ---
 
-<figure style="float: right; width: 320px;">
-  ![mountains](/images/mountain.png){: .align-right width='320px'}
-  <figcaption style="text-align: center; font-size: 0.9em; margin-top: 5px;">EBC, Nepal</figcaption>
-</figure>
+
 
 I'm a Finance PhD Student at Penn State University. 
 
 My research interests include supply chain management, innovation, and corporate investment. 
 
 Feel free to email me at zxz5471[at]psu[dot]edu.
+
+
+![mountains](/images/mountain.png){: width='320px'}
+<figcaption style="text-align: center; font-size: 0.9em; margin-top: 5px;">EBC, Nepal</figcaption>
+
 
 
 <br><br><br><br>
