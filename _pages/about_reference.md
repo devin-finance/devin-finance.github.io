@@ -19,7 +19,7 @@ Feel free to email me at zxz5471[at]psu[dot]edu.
   <figcaption style="font-size: 0.75em; margin-top: -5px; text-align: left;">Everest Base Camp (EBC) Trek, Nepal, March 2019</figcaption> 
 </figure>
 
-<br><br><br><br>
+<br><br><br>
 
 
 
