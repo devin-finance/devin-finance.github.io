@@ -16,7 +16,7 @@ If you have any questions or comments, please feel free to contact me at zxz5471
 
 <figure style="text-align: left; max-width: 100%;">
   <img src="/images/mountain.png" alt="mountains" width="700px">
-  <figcaption style="font-size: 0.75em; margin-top: -5px; text-align: left;">Everest Base Camp (EBC) Trek, Nepal, March 2019</figcaption> 
+  <figcaption style="font-size: 0.75em; margin-top: -5px; text-align: left;">Heading west out of Gokyo Ri on the trail to Renjo Pass, Everest Base Camp (EBC) Trek, Nepal, March 2019</figcaption> 
 </figure>
 
 
