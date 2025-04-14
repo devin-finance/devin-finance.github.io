@@ -5,9 +5,10 @@ author_profile: true
 redirect_from: 
 ---
 
-<br> <!-- Adds a line space before the introduction -->
 
-👋 Hello! I am a Finance Ph.D. student at The Pennsylvania State University. My research interests include supply chain management, innovation, and corporate investment. 
+👋 Hello! I am a Finance Ph.D. student at The Pennsylvania State University. 
+
+My research interests include supply chain management, corporate investment, and corporate political behavior.
 
 If you have any questions or comments, please feel free to contact me at zxz5471[at]psu[dot]edu.
 
