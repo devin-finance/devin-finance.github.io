@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "👋 Hello there, I’m Devin."
+title: "About"
 author_profile: true
 redirect_from: 
 ---
 
 <br> <!-- Adds a line space before the introduction -->
 
-I am a Finance Ph.D. student at The Pennsylvania State University. My research interests include supply chain management, innovation, and corporate investment. 
+👋 Hello! I am a Finance Ph.D. student at The Pennsylvania State University. My research interests include supply chain management, innovation, and corporate investment. 
 
 If you have any questions or comments, please feel free to contact me at zxz5471[at]psu[dot]edu.
 
