@@ -23,5 +23,5 @@ If you have any questions or comments, please feel free to contact me at zxz5471
 
 ------
 <p style="font-size: 0.8em; text-decoration: none; color: inherit;">
-  © 2024 Devin Zhang. Powered by <a href="https://jekyllrb.com/" style="text-decoration: none; color: inherit;">Jekyll</a> using the <a href="https://mmistakes.github.io/minimal-mistakes/docs/configuration/" style="text-decoration: none; color: inherit;">Minimal Mistakes theme</a>.
+  © 2025 Devin Zhang. Powered by <a href="https://jekyllrb.com/" style="text-decoration: none; color: inherit;">Jekyll</a> using the <a href="https://mmistakes.github.io/minimal-mistakes/docs/configuration/" style="text-decoration: none; color: inherit;">Minimal Mistakes theme</a>.
 </p>
