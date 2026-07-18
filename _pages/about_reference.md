@@ -8,7 +8,9 @@ redirect_from:
 
 👋 Hello! I am a Ph.D. candidate in Finance at The Pennsylvania State University. 
 
-My research explores how external forces, such as supply chain networks, politics, and environmental disclosures, shape firm investment and financing. I also study how private capital interacts with public finance within the U.S. infrastructure sector.
+My research explores how external forces, such as supply chain networks, politics, and environmental disclosures, shape firm investment and financing. 
+
+I also study how private capital interacts with public finance within the U.S. infrastructure sector.
 
 If you have any questions or comments, please feel free to contact me at zxz5471[at]psu[dot]edu.
 
