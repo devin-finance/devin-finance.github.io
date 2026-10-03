@@ -124,10 +124,18 @@ a:hover {
 }
 
 // Profile photo: rectangle instead of oval
+// .author__avatar img {
+//   border-radius: 12px;
+//   padding: 0;
+//   border: none;
+// }
+
+// Profile photo: rounded, no frame, soft shadow
 .author__avatar img {
-  border-radius: 12px;
+  border-radius: 20px;
   padding: 0;
   border: none;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
 }
 
 // Paragraphs and lists: override the Helvetica rule in _base.scss
