@@ -10,7 +10,7 @@ redirect_from:
 
 My research focuses on how supply chains, politics, and disclosure shape corporate investment and financing, and how private capital invests in infrastructure.
 
-You can contact me at zxz5471[at]psu[dot]edu.
+You can contact me at: zxz5471[at]psu[dot]edu.
 
 I co-organize the [Inter-Finance PhD Seminar](https://sites.google.com/view/ifphd), a virtual seminar for PhD students across schools, alongside Jared Katz, Mukul Kaushik, and Sungil Kim.
 
