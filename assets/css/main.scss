@@ -126,4 +126,6 @@ a:hover {
 // Profile photo: rectangle instead of oval
 .author__avatar img {
   border-radius: 4px;
+  padding: 0;
+  border: none;
 }
