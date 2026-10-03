@@ -129,3 +129,8 @@ a:hover {
   padding: 0;
   border: none;
 }
+
+// Paragraphs and lists: override the Helvetica rule in _base.scss
+p, pre, blockquote, ul, ol, dl, figure, table, fieldset {
+  font-family: 'Source Sans Pro', sans-serif !important;
+}
