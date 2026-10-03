@@ -63,20 +63,18 @@
 */
 
 
-// Override front page font 
-.page__content {
-  font-family: 'Roboto', sans-serif !important; /* Change to your desired font */
-  /* font-size: 16px !important;  Adjust as needed */
-  /* line-height: 1.6 !important;  Adjust as needed */
-  /* Other styles */
-}
 
+// Override front page font
+.page__content {
+  font-family: 'Source Sans Pro', sans-serif !important;
+  font-size: 16px !important;
+}
 
 // Override font-family for body and headings
 body {
-  font-family: 'Roboto', sans-serif !important;
+  font-family: 'Source Sans Pro', sans-serif !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Roboto', sans-serif !important;
+  font-family: 'Source Sans Pro', sans-serif !important;
 }
