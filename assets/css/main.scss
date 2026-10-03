@@ -2,7 +2,7 @@
 ---
 
 /*
- *    Minimal Mistakes Jekyll Theme
+ *    Minimal Mistakes Jekyll Theme.masthead__menu-item a
  *
  *  - Michael Rose
  *  - mademistakes.com
@@ -89,11 +89,20 @@ body {
 
 .masthead__menu-item a {
   color: #333 !important;
-  font-size: 18px;
+  font-size: 0.9rem;
 }
 
 .masthead__menu-item--lg a {
   font-size: 0.9rem;
+}
+
+// Accent colour for the page title and the name tab
+.page__title {
+  color: #00539B;
+  font-weight: 600;
+}
+.masthead__menu-item--lg a {
+  color: #00539B !important;
 }
 
 // Name tab: semi-bold
