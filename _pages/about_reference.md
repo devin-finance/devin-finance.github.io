@@ -12,7 +12,7 @@ My research focuses on how supply chains, politics, and disclosure shape corpora
 
 You can contact me at: zxz5471[at]psu[dot]edu.
 
-I co-organize the [Inter-Finance PhD Seminar](https://sites.google.com/view/ifphd), a virtual seminar for PhD students across schools, alongside [Jared Katz](https://www.jareddeankatz.com/), Mukul Kaushik, and [Sungil Kim](https://www.sungilkim.net/).
+I co-organize the [Inter-Finance PhD Seminar](https://sites.google.com/view/ifphd), a virtual seminar for PhD students across schools, alongside [Jared Dean Katz](https://www.jareddeankatz.com/), Mukul Kaushik, and [Sungil Kim](https://www.sungilkim.net/).
 
 <br> <!-- Adds a line space before the introduction -->
 
