@@ -98,6 +98,16 @@ body {
   font-size: 0.9rem;
 }
 
+// Align "Home" with the page content
+.masthead__menu-item--lg {
+  padding-right: 78px;
+}
+@media (max-width: 79.99em) {
+  .masthead__menu-item--lg {
+    padding-right: 3px;
+  }
+}
+
 a {
   color: #00539B;
 }
