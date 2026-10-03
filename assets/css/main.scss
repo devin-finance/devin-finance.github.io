@@ -122,3 +122,8 @@ a {
 a:hover {
   color: #012169;
 }
+
+// Profile photo: rectangle instead of oval
+.author__avatar img {
+  border-radius: 0;
+}
