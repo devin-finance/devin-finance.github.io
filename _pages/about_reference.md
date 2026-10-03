@@ -8,7 +8,7 @@ redirect_from:
 
 👋 Hello! I am a Ph.D. candidate in Finance at The Pennsylvania State University. 
 
-My research focuses on how corporate investment and financing are shaped by supply chain networks, politics, and environmental disclosure. I also study how private capital interacts with public finance within the U.S. infrastructure sector.
+My research focuses on how supply chains, politics, and disclosure shape corporate investment and financing, and how private capital invests in infrastructure.
 
 I co-organize the [Inter-Finance PhD Seminar](https://sites.google.com/view/ifphd), a virtual seminar for PhD students across schools, alongside Jared Katz, Mukul Kaushik, and Sungil Kim.
 
