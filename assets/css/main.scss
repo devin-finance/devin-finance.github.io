@@ -102,13 +102,17 @@ body {
   font-weight: 600;
 }
 
-// Align "Home" with the page content (calibrated for the semi-bold name)
+// Align "Home" with with the sidebar text and "Home" with the page content (calibrated for the semi-bold name)
+.masthead__menu ul {
+  margin-left: 0;
+}
 .masthead__menu-item--lg {
-  padding-right: 90px;
+  padding-left: 0;
+  padding-right: 131px;
 }
 @media (max-width: 79.99em) {
   .masthead__menu-item--lg {
-    padding-right: 15px;
+    padding-right: 56px;
   }
 }
 
